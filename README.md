@@ -13,8 +13,8 @@ Olá, Eu sou o Thiago Alves!
   <img align="center" alt="Rafa-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="Rafa-HTML" height="30" width="40" 
      src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" />
-   <img align="center" alt="Rafa-HTML" height="30" width="40" 
-     src="https://icon-icons.com/pt/icone/arduino/20911" />
+          <img  align="center" alt="Rafa-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+ 
     
           
 </div>
