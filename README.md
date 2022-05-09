@@ -14,7 +14,7 @@ Olá, Eu sou o Thiago Alves!
     <img align="center" alt="Rafa-HTML" height="30" width="40" 
      src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" />
    <img align="center" alt="Rafa-HTML" height="30" width="40" 
-     src="https://icon-icons.com/pt/icone/aplicação-escritorio-excel/1954" />
+     src="https://icon-icons.com/pt/icone/arduino/20911" />
     
           
 </div>
